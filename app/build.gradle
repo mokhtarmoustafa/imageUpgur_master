@@ -6,7 +6,7 @@ apply plugin: 'kotlin-kapt'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "dev.ihsan.upgur"
+        applicationId "dev.mokhtar0.upgur"
         minSdkVersion 18
         targetSdkVersion 28
         versionCode 1

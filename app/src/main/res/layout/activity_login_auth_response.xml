@@ -17,7 +17,7 @@
             app:layout_behavior="@string/appbar_scrolling_view_behavior"
             tools:context=".ui.login.LoginAuthResponseActivity">
 
-        <dev.ihsan.upgur.ui.widget.LceeView
+        <dev.mokhtar0.upgur.ui.widget.LceeView
                 android:id="@+id/lceeView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -44,7 +44,7 @@
                     app:ev_retryVisible="false"
                     android:layout_gravity="center"
                     android:theme="@style/AppTheme.ErrorView"/>
-        </dev.ihsan.upgur.ui.widget.LceeView>
+        </dev.mokhtar0.upgur.ui.widget.LceeView>
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 

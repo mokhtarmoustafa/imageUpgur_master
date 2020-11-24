@@ -37,7 +37,7 @@
             android:layout_height="match_parent"
             app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
-        <dev.ihsan.upgur.ui.widget.LceeView
+        <dev.mokhtar0.upgur.ui.widget.LceeView
                 android:id="@+id/lceeView"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent">
@@ -76,7 +76,7 @@
                     app:ev_retryVisible="false"
                     android:layout_gravity="center"
                     android:theme="@style/AppTheme.ErrorView"/>
-        </dev.ihsan.upgur.ui.widget.LceeView>
+        </dev.mokhtar0.upgur.ui.widget.LceeView>
     </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
 
     <androidx.appcompat.widget.LinearLayoutCompat
