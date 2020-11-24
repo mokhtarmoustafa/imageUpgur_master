@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: tr.xip.errorview:library:4.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-4.0.0.aar/2b9c7d1080334595153a93aa44c9280a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-4.0.0.aar/2b9c7d1080334595153a93aa44c9280a/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-4.0.0.aar/2b9c7d1080334595153a93aa44c9280a/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
